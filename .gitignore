@@ -19,3 +19,12 @@
 
 # Go workspace file
 go.work
+
+# VSCode
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+.idea_modules/
