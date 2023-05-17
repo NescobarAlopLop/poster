@@ -28,3 +28,4 @@ go.work
 *.iml
 *.iws
 .idea_modules/
+.env
