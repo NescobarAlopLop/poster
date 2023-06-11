@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/dghubble/go-twitter v0.0.0-20221104224141-912508c3888b
 	github.com/dghubble/oauth1 v0.7.2
-	github.com/sashabaranov/go-openai v1.9.4
+	github.com/sashabaranov/go-openai v1.9.5
 	golang.org/x/oauth2 v0.8.0
 )
 
